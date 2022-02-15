@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="59603" started-at="2022-01-29T13:55:37 IST" finished-at="2022-01-29T13:56:36 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="59603" started-at="2022-01-29T13:55:37 IST" finished-at="2022-01-29T13:56:36 IST">
+      <class name="com.jbk.Login">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.jbk.Login@3d921e20]" name="setUp" is-config="true" duration-ms="24464" started-at="2022-01-29T13:55:12 IST" finished-at="2022-01-29T13:55:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyDPHeader()[pri:0, instance:com.jbk.Login@3d921e20]" name="verifyDPHeader" duration-ms="39155" started-at="2022-01-29T13:55:37 IST" finished-at="2022-01-29T13:56:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDPHeader -->
+        <test-method status="PASS" signature="verifyUserPage()[pri:0, instance:com.jbk.Login@3d921e20]" name="verifyUserPage" duration-ms="20390" started-at="2022-01-29T13:56:16 IST" finished-at="2022-01-29T13:56:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUserPage -->
+      </class> <!-- com.jbk.Login -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
